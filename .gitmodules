@@ -1,0 +1,6 @@
+[submodule "src/js/shared/engine"]
+	path = src/js/shared/engine
+	url = https://github.com/xproj2501x/engine.git
+[submodule "src/js/shared/framework"]
+	path = src/js/shared/framework
+	url = https://github.com/xproj2501x/framework.git
